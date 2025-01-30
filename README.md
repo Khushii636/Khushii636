@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khushii636
 - 👀 I’m interested in contributing to open source and collaboration
-- 🌱 I’m currently learning web development and dsa in java
+- 🌱 I’m currently learning web development and DSA in java
 - 💞️ I’m looking to collaborate on web development and programming
 - 📫 How to reach me https://www.linkedin.com/in/khushi-choudhary-286a47313
 
